@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="ds-serv8.ucsd.edu" id="3b6a6a19-9779-42ff-a15f-08f9b3379fde" port="31849" nameFormat="DESCRIPTIVE" username="c5an" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

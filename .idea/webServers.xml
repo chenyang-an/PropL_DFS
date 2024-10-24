@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="650f17b0-3584-4777-aaa0-e64c05a9402e" name="ds-serv8">
+        <fileTransfer rootFolder="/home/c5an/leandojo_project/atp_research/DFS" accessType="SFTP" host="ds-serv8.ucsd.edu" port="31849" sshConfigId="3b6a6a19-9779-42ff-a15f-08f9b3379fde" sshConfig="c5an@ds-serv8.ucsd.edu:31849 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
